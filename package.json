@@ -1,0 +1,15 @@
+{
+  "name": "perpustakaan-api",
+  "version": "1.0.0",
+  "description": "backend aplikasi perpustakaan",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "clear && nodemon server"
+  },
+  "author": "Use63",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.25.2"
+  }
+}
